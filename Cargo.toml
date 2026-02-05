@@ -14,7 +14,7 @@ members = [
     "squalr-cli",
     "squalr-tui",
     "squalr-installer",
-    "squalr",
+    "squalr", "squalr-tests",
 ]
 resolver = "3"
 
